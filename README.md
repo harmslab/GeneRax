@@ -1,8 +1,5 @@
 ![alt text](doc/generax_logo.png?raw=true "GeneRax")
 
-News: 
-* 03.2021: GeneRax 2 is released, allowing rooted species tree inference from gene trees (I am still working on updating the bioconda package) 
-* 11.2020: we just created a new GeneRax google groups for asking questions and reporting issues:  https://groups.google.com/g/generaxusers
 
 # GeneRax 
 
@@ -19,6 +16,8 @@ GeneRax is also available on [`bioconda`](https://anaconda.org/bioconda/generax)
 # SpeciesRax
 
 SpeciesRax is part of the GeneRax tool and is available since GeneRax v2.0.0. SpeciesRax infers a rooted species tree from a set of unrooted gene trees. When using SpeciesRax, please cite [https://academic.oup.com/mbe/article/39/2/msab365/6503503](https://academic.oup.com/mbe/article/39/2/msab365/6503503)
+
+Update: we have released a new tool [AleRax](https://github.com/BenoitMorel/AleRax) ([paper](https://academic.oup.com/bioinformatics/article/40/4/btae162/7633408)) which an independent study ([preprint](https://www.biorxiv.org/content/10.1101/2024.11.20.624597v4.full.pdf))  has shown to be more accurate than SpeciesRax and other competing methods for species tree inference.
 
 ## Requirement
 
