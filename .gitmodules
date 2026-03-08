@@ -6,7 +6,7 @@
 [submodule "ext/coraxlib"]
 	path = ext/coraxlib
   branch = dev
-  url = https://codeberg.org/harmslab/coraxlib.git
+  url = https://github.com/harmslab/coraxlib.git
 [submodule "ext/GeneRaxCore"]
 	path = ext/GeneRaxCore
 	url = https://github.com/harmslab/GeneRaxCore.git
