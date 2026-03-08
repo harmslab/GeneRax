@@ -1,12 +1,12 @@
 [submodule "ext/MPIScheduler"]
 	path = ext/MPIScheduler
   branch = master
-	url = https://github.com/BenoitMorel/MPIScheduler
+	url = https://github.com/harmslab/MPIScheduler
 
 [submodule "ext/coraxlib"]
 	path = ext/coraxlib
   branch = dev
-  url = https://codeberg.org/Exelixis-Lab/coraxlib.git
+  url = https://codeberg.org/harmslab/coraxlib.git
 [submodule "ext/GeneRaxCore"]
 	path = ext/GeneRaxCore
-	url = https://github.com/BenoitMorel/GeneRaxCore.git
+	url = https://github.com/harmslab/GeneRaxCore.git
