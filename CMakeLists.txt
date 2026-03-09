@@ -3,6 +3,7 @@ cmake_minimum_required(VERSION 3.10)
 project(JointSearchProject
         VERSION 0.0)
 
+set(CMAKE_POSITION_INDEPENDENT_CODE ON)
 set(JOINTSEARCH_BUILD_AS_LIBRARY OFF CACHE BOOL "Build JointSearch as shared library (instead of stand-alone executable)")
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fPIC")
